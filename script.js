@@ -9,7 +9,7 @@ const person = {
 
 let team =players;
 let team1 =team;
-let cap1 =person
+let cap1 =person;
 window.players = players;
 window.person = person;
 window.team = team;
